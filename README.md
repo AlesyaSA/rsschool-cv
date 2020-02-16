@@ -1,2 +1,1 @@
-# rsschool-cv
-Markdown &amp; Git
+https://AlesyaSA.github.io/rsschool-cv/cv
