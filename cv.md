@@ -1,31 +1,40 @@
 Alesya Andreevna Bairasheuskaya
-Telephone number: +375296823701
-E-mail: alesyashubkina@gmail.com
-github - https://github.com/AlesyaSA
-English:intermediate(B1)
-Summary of Qualifications
+=======
 
-Basic knowledge of HTML, CSS/SCSS, JavaScript.
-Technical Skills
+* Telephone number: +375296823701
+* E-mail: alesyashubkina@gmail.com
+* github - https://github.com/AlesyaSA 
+* English:intermediate(B1)
 
-Programming languages and technologies: JavaScript, HTML, CSS
-Tools: GIT, Atom, VS Code, Webstorm
-Other skills:good coffee maker :)
-Professional Experience
+**Summary of Qualifications**
+* Basic knowledge of HTML, CSS/SCSS, JavaScript.
 
-none
-Projects
+**Technical Skills**
+* _Programming languages and technologies_: JavaScript, HTML, CSS
+* _Tools_: GIT, Atom, VS Code,  Webstorm
+* _Other skills_:good coffee maker :)
 
-tic-tac-toe Game Environment: HTML, CSS, JavaScript
-guessing-game Environment: HTML, CSS, JavaScript
-frontend-nanodegree-mobile-portfolio Environment: HTML, CSS, JavaScript
-Rolling scopes Also I’ve made the following 2 talks:
+**Professional Experience**
+* none
 
-HTML + CSS basics courses
-Git & Markdown
-Education
+**Projects**
 
-The Rolling Scopes School
-02.2019 – ...,
-Belarusian State University, Minsk, Belarus
-09.2018-2020
+1. [_tic-tac-toe Game_](https://github.com/AlesyaSA/tic-tac-toe)
+Environment: HTML, CSS, JavaScript
+2. [_guessing-game_](https://github.com/AlesyaSA/guessing-game)
+Environment: HTML, CSS, JavaScript
+3. [_frontend-nanodegree-mobile-portfolio_](https://github.com/AlesyaSA/frontend-nanodegree-mobile-portfolio)
+Environment: HTML, CSS, JavaScript
+
+
+
+**Rolling scopes**
+Also I’ve made the following 2 talks:
+  1. [HTML + CSS basics courses](https://github.com/AlesyaSA/rsschool-2019Q1-cv)
+  2. [Git & Markdown](https://github.com/AlesyaSA/rsschool-2019Q1-html-css)
+
+**Education**
+* [The Rolling Scopes School](https://school.rollingscopes.com/)
+  * 02.2019 – ..., 
+* [Belarusian State University](https://www.bsu.by/), Minsk, Belarus
+  * 09.2018-2020      
